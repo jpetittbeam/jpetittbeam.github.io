@@ -1,0 +1,60 @@
+Package: evarc
+Version: 1.2.37
+Maintainer: Beam Global <james.petitt@beamforall.com>
+Depends: screen,python3,python3-pip,telnet
+Architecture: armhf
+Homepage: https://github.com/jpetittbeam/EVARC
+Priority: standard
+Section: application
+Filename: pool/main/e/evarc/evarc_1.2.37_armhf.deb
+Size: 62180
+SHA256: 451af96c84a251360fa649a859eb61e6b7e856dfcae426322efa42b2b8dfb43a
+SHA1: f4cd7290dd5dfeaea3b1d76e43a5e19226411e70
+MD5sum: 06d6b3923a5928a8f2b0e3771a711a78
+Description: EVARC product software - Beam Global
+
+Package: evarc-keys
+Version: 0.1.8
+Maintainer: Beam Global <james.petitt@beamforall.com>
+Depends: ssh
+Architecture: armhf
+Homepage: https://github.com/jpetittbeam/EVARC
+Priority: standard
+Section: application
+Filename: pool/main/e/evarc-keys/evarc-keys_0.1.8_armhf.deb
+Size: 8868
+SHA256: 4f72613b1b9173e844d9f8add65debba7dd9cd48a6e04ddc011a237f07de3232
+SHA1: 3aa0fcd45ff6e32ca81666cb6524dd36749fa237
+MD5sum: 97e19096b31ac7858cf6938a7e80853a
+Description: EVARC access control - Beam Global
+
+Package: evarc-reboot
+Version: 1.0.3
+Maintainer: Beam Global <james.petitt@beamforall.com>
+Depends: 
+Architecture: armhf
+Homepage: https://github.com/jpetittbeam/EVARC_build
+Priority: standard
+Section: application
+Filename: pool/main/e/evarc-reboot/evarc-reboot_1.0.3_armhf.deb
+Size: 1028
+SHA256: cc779c89748d0138e6ae5f1b7286287541a94ef5e67e74f84e4a05ef4ac67aa2
+SHA1: 803e5a342b0496b445dca2344c189d78b3e78536
+MD5sum: 02753cfa5b686637ac839c5b0247d56d
+Description: EVARC periodic reboot - Beam Global
+
+Package: evarc-webserver
+Version: 0.0.3
+Maintainer: Beam Global <james.petitt@beamforall.com>
+Depends: python3,python3-pip
+Architecture: armhf
+Homepage: https://github.com/jpetittbeam/webserver
+Priority: standard
+Section: application
+Filename: pool/main/e/evarc-webserver/evarc-webserver_0.0.3_armhf.deb
+Size: 332992
+SHA256: ed3edf6fb754da06b341b31119ebde999330c0fd8c59d257a9ad5b195417d224
+SHA1: 424d36c7431b3681238c725fd7dec7adbb975f57
+MD5sum: b7efe8f149bbe8add299c8f97c92f823
+Description: EVARC-webserver product software - Beam Global
+
