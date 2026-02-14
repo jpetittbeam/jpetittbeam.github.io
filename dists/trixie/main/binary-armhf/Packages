@@ -7,26 +7,11 @@ Homepage: https://github.com/jpetittbeam/EVARC
 Priority: standard
 Section: application
 Filename: pool/main/e/evarc/evarc_1.2.39_armhf.deb
-Size: 62288
-SHA256: e901ddd100835c1ad1e1bfcac9c6b5c835776aa1ed965d9d39424e3d196bd633
-SHA1: f99c8f314b602783f74bb47bf9d0e8d54dbc7d1c
-MD5sum: 32b7e849a50e3dcaba544f1acc3995f2
+Size: 62140
+SHA256: 313457b341e2a7d723d76e41b86857c8e50594381932426ac16bbfe68e4acadd
+SHA1: 4ddefa74a6111633251815e270bf93a924d5a8a3
+MD5sum: d92577f3255ed1496eb0fcb7de92f9a7
 Description: EVARC product software - Beam Global
-
-Package: evarc-keys
-Version: 0.1.8
-Maintainer: Beam Global <james.petitt@beamforall.com>
-Depends: ssh
-Architecture: armhf
-Homepage: https://github.com/jpetittbeam/EVARC
-Priority: standard
-Section: application
-Filename: pool/main/e/evarc-keys/evarc-keys_0.1.8_armhf.deb
-Size: 8684
-SHA256: 98dd782f8c022c27465e5b15b2d6a7651e9db896e91140fa4ec406621ebbab07
-SHA1: 541477a92952ee0ac3f799766dcb40c79eb62814
-MD5sum: a69bea48de5bfb62f9d430d93de304fd
-Description: EVARC access control - Beam Global
 
 Package: evarc-reboot
 Version: 1.0.3
