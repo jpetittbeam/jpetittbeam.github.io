@@ -5,7 +5,7 @@ Origin: EVARC
 Label: EVARC
 Suite: stable
 Codename: trixie
-Date: Sat, 14 Feb 2026 09:16:05 UTC
+Date: Sat, 14 Feb 2026 09:33:53 UTC
 Architectures: armhf
 Components: main
 Description: Beam Global - EVARC
@@ -29,15 +29,15 @@ SHA256:
  8347fe17acd70f4b8e4ad76fe481a63a249cf09258f4a2a0ee5f88a75bd45b64 793 main/Contents-armhf.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEdwaimOTr45sEzjzy9X5hkZMInCYFAmmQPV0ACgkQ9X5hkZMI
-nCaq8gv/UoWSsbQJNjRzcifpdNndoTKVZyKmZnJdwHadFd5xg5qWROqVz2geOMy0
-3zTq7nvp1N1jVOHvHCJA/9w8GYaBZEbajXhD5LMl2LKw3rAL577plYJV6Tel5Jq9
-uNNes//nupjwogFlhuFtoCVGycUmKmz9TU+ijExcUqZylmCU6aVrKnxnv6pAvJwL
-AHdD2SKTVLTNw1Sc1lXOKlxCyUqdvRiKCNHYAb9Q8lE7UK1xoUl25DRI0F1wFk0d
-svDfWqfPX/Ml9DwqXlAb4ttLkfRw9cHEPKUSGv9xitnfn/d4Uw5ORMllZJXxhEaA
-7W10TFK1e+RbLtOgeiScJLJhFAXlJS4vfXIw05kR+TTVITArNHwK2JFy3q6M+Wuv
-gVsPRk5CzSclxh5Gb+XbFz75NXERNDBOeh4d56YjkaTmr0FBcFdd6GT5Zr1Lfm5D
-ucN2FXCv5Lz2t7llDXhedZiW9IVLnMqqwZT/qo1jZxxGoTQXEmB9nJZscl8PDJ1i
-14zN3xgc
-=kUeR
+iQGzBAEBCgAdFiEEdwaimOTr45sEzjzy9X5hkZMInCYFAmmQQYIACgkQ9X5hkZMI
+nCaUqwwAoIlnGuK4yjp2BeCtRlULQwjAQ8dQrXrcUgCGcasf6gcF/+4Zjjqunxb9
+yRu/wPx3mXz3uhdobnc9LB3Z+Fhou4CQSAhQ25+P9X7W8fsrzzXQZL2awU9HICMI
+yzcTwSmDNvRwjiAJjiGpYTjZGaWsKXohVIq1tG0qXljJn8V3Ch+4f+DopbhbPYV1
+xYCBr7ADZLgNhxt3ovv9SFqDlY/Amfc2M2WKL8xcmn739PUElXelDoO0WXHM9FBl
+mm48Ld+GsdQZRIKpDS3KyXB12y/TmbzS+PJt5/2BwAgIOUsrYJkyncWHUh9ELzaG
+9Tbwi0NTsijtQOqfgtDypavx7PVVXjXPNtXfMydf7WCfNvN5imcMO7u4qnK7BzNz
+fAM7L3WPpw1qFBF6xczzYV3O9pedHkP+0YpT3ABpIqOWtr8WHTe9YhyZ3yIJo4rz
+TIac255cVTRIn0uHcsJgYeEMhXz+Rm3BT7DiOhdqRJKfhP6fI/AJYb8rcJmCOq1l
+DLY0NZd7
+=WzHk
 -----END PGP SIGNATURE-----
