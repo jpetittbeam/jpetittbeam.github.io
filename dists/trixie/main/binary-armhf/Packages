@@ -8,9 +8,9 @@ Priority: standard
 Section: application
 Filename: pool/main/e/evarc/evarc_1.2.39_armhf.deb
 Size: 62288
-SHA256: 7e3134bc49480d3452ecc85baecaa32034bed2a4863876c836ca24cfe10a4d0d
-SHA1: f741399f48824526b899cc1bd5711fc462a39e05
-MD5sum: 92363469a40e144e3892c9bd71b56a30
+SHA256: e901ddd100835c1ad1e1bfcac9c6b5c835776aa1ed965d9d39424e3d196bd633
+SHA1: f99c8f314b602783f74bb47bf9d0e8d54dbc7d1c
+MD5sum: 32b7e849a50e3dcaba544f1acc3995f2
 Description: EVARC product software - Beam Global
 
 Package: evarc-keys
