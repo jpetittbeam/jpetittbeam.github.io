@@ -2,25 +2,25 @@ Origin: EVARC
 Label: EVARC
 Suite: stable
 Codename: trixie
-Date: Fri, 27 Feb 2026 21:49:50 UTC
+Date: Fri, 27 Feb 2026 23:12:28 UTC
 Architectures: armhf
 Components: main
 Description: Beam Global - EVARC
 MD5Sum:
- c306675789cc34c62b8eb157c2160348 2039 main/binary-armhf/Packages
- 5c5e175f3fa688f29acc9789b8e116a2 807 main/binary-armhf/Packages.gz
+ fda4328a328fd26bd990b048551e85a6 2039 main/binary-armhf/Packages
+ 3b635c99b7dbf9d4ce7d223e58dbc595 804 main/binary-armhf/Packages.gz
  6fdbeec9e34dd98425e2f1d8e277e9d9 112 main/binary-armhf/Release
- 99ebb0630ecececd64d717d3bc1df1bb 5463 main/Contents-armhf
- f4e8178972bdb49007fd909a506c17e8 803 main/Contents-armhf.gz
+ 562af6026189f74f50806c0721075fbe 9482 main/Contents-armhf
+ cab3a369a71fdd754ce44ebe2dd7f82d 1044 main/Contents-armhf.gz
 SHA1:
- c437ae3c08bbb367f96ede441f99b26f6c248bc0 2039 main/binary-armhf/Packages
- 731686bb384cedd88c0b00e1819dbb6a0e08ae24 807 main/binary-armhf/Packages.gz
+ 78e54be690740639900deeb924ceaf54cb343a1c 2039 main/binary-armhf/Packages
+ c2734eada3e03991456e6a5a3d042056e56cf240 804 main/binary-armhf/Packages.gz
  7737edd6554e1ae6ed0756408372133b24188c1a 112 main/binary-armhf/Release
- 245a29dcd1165511bb7eaa6d4a1119d57dab80db 5463 main/Contents-armhf
- 9a32b8bce8ef4acdc77375ddeb01f4cf31a3d1ac 803 main/Contents-armhf.gz
+ 8ec20b252605a6f0522a3439ee04ee97a37c1e4e 9482 main/Contents-armhf
+ fb0d64c9a3068d7f993448ef64ec18ad6e58d923 1044 main/Contents-armhf.gz
 SHA256:
- 64376792fc828eb5a8949f541977eeb350a78d66304e54f775d7f6e8f23e0e71 2039 main/binary-armhf/Packages
- a59c8573eea93e2fcbf5b3142700fbbefec7a7baecf14c6c3e8810139cfc596c 807 main/binary-armhf/Packages.gz
+ 0774da0a927c1ffef991c984fbe1c4e40ae90db41ea06d861036394e37a9c5a5 2039 main/binary-armhf/Packages
+ bf4bdb75c21edcc08e7987838b390d376a240a1c7be01366ea304528aee66c5e 804 main/binary-armhf/Packages.gz
  25bfabf1982e97c38fd1e349e4c624d9953807adaebb34d95bb3bf181d24c821 112 main/binary-armhf/Release
- 37ef40d1eee38ecae20018e0fdd000bd237bfae11da645a1ef69b5de29e4b8e4 5463 main/Contents-armhf
- c778d969111fdd3f15c825da07ddff7e867a3d78421ec2a438d3d2618368c429 803 main/Contents-armhf.gz
+ 5a16a74688ae0ea0e2d7e50b7d3b29f292ce1f4b336d5d8fe25c722437dc7e3c 9482 main/Contents-armhf
+ 8587e82223e3db2836fdff3ca769a00829a5a6d2d061fa988dbde570ee6ed884 1044 main/Contents-armhf.gz
