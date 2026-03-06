@@ -5,39 +5,39 @@ Origin: EVARC
 Label: EVARC
 Suite: stable
 Codename: trixie
-Date: Fri, 06 Mar 2026 01:59:15 UTC
+Date: Fri, 06 Mar 2026 16:18:51 UTC
 Architectures: armhf
 Components: main
 Description: Beam Global - EVARC
 MD5Sum:
- abdc448327c57d32f45e1648ed21779a 2039 main/binary-armhf/Packages
- 5978f042fa9d20131254336be0917ea3 804 main/binary-armhf/Packages.gz
+ 8a73c46f23bef64ab782e078bbc32baa 2039 main/binary-armhf/Packages
+ 85784940915a73bb75f2d66b81ba5180 804 main/binary-armhf/Packages.gz
  6fdbeec9e34dd98425e2f1d8e277e9d9 112 main/binary-armhf/Release
  99ebb0630ecececd64d717d3bc1df1bb 5463 main/Contents-armhf
  f4e8178972bdb49007fd909a506c17e8 803 main/Contents-armhf.gz
 SHA1:
- 072103e6566140b5679a149e92d0285ee68b53d4 2039 main/binary-armhf/Packages
- 800c83708856cb10016d2b1f6367a5d278a59ddb 804 main/binary-armhf/Packages.gz
+ 0695f34f2f030a81d3487b734d65a856f7b5accc 2039 main/binary-armhf/Packages
+ 0bd7227785a12f5c5dbce0cfa7f1ded691949e08 804 main/binary-armhf/Packages.gz
  7737edd6554e1ae6ed0756408372133b24188c1a 112 main/binary-armhf/Release
  245a29dcd1165511bb7eaa6d4a1119d57dab80db 5463 main/Contents-armhf
  9a32b8bce8ef4acdc77375ddeb01f4cf31a3d1ac 803 main/Contents-armhf.gz
 SHA256:
- 7ca5030812faa02cf542aa4ac5f4343b815b92e57a6820db62b2e2b893d1ada8 2039 main/binary-armhf/Packages
- 589e4e4ed1ac9fc7ad4fc2db673a1d9ec61ffe4dabd4e2b7b48c54041c1b02a8 804 main/binary-armhf/Packages.gz
+ e446a83102bdeecd34f773226d8ab2fb2bc8f62d592c7809af2bd061885d19b5 2039 main/binary-armhf/Packages
+ 10bd4af67ca5025b709d2cd59ef71edf8548f5f630762c5e473e4d744275de17 804 main/binary-armhf/Packages.gz
  25bfabf1982e97c38fd1e349e4c624d9953807adaebb34d95bb3bf181d24c821 112 main/binary-armhf/Release
  37ef40d1eee38ecae20018e0fdd000bd237bfae11da645a1ef69b5de29e4b8e4 5463 main/Contents-armhf
  c778d969111fdd3f15c825da07ddff7e867a3d78421ec2a438d3d2618368c429 803 main/Contents-armhf.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEdwaimOTr45sEzjzy9X5hkZMInCYFAmmqNPQACgkQ9X5hkZMI
-nCbOhQv/Tp2R6PT5Q2pKR2FsFd4vV9H9OoaCN9p0Zsvz1B9gcjeferZubMFPEYjB
-GpX6jek2xs8Vqc+j1WncL3FYK/MpRcUiSmiGY3H1x3j+XNvcSiOsfn5CBytQYOFT
-Wfr2vizQEzy4GRor+Nf11yAPMjRcMx/87pkayoJpCWL3nCE98kVs6nREPgs8WnGE
-j7VqUXKoS18AkiQ2tBH2d338FO5/VULV5qYf2nBExME30TvfBAJPb0UdFfvDHqf+
-sG1FseBvp7HZqcwfS61vyw66fYkvxsLidcGgTAvblCJPmeHhsx0QEt12f3eDcDHN
-PVbAUHq3na986kfnKEWZiK0aqsHFAZy6VHXXQkHEg7P2d+0zrJnX9jaeEdh8qGQr
-eEsd1SMQSRz+eHf0ufoyBSNwrmhGzwFaP9QomdMomi/G+eFzdpXyDw3yvA8KaQu7
-2cM7g9uv68FtOQswwYIaa8rMu+oPEBtTjIt5CPvBUqa131eknRfSKaEocaLPpUoQ
-8krRLUHu
-=NaIL
+iQGzBAEBCgAdFiEEdwaimOTr45sEzjzy9X5hkZMInCYFAmmq/msACgkQ9X5hkZMI
+nCawpQv7B/SpTWUXGLifKOwIvyqwzdakGXJst2GVRkagEgV/ysnFuWOBi/m9/Bcs
+g1z/f3bdCUDYzK130zindxWm8RTOC7gnnpIZQEIlARF4X2Dw7u5+Wz8wKLzVh2KT
+U5fvhqKMNukRnaktO2NCX6CckrILUkPlqQK+kfvj3TfeoYn+jk1s6+HurG4/x/OX
+1JY5lQ8kx8ipH33kbcwriJjD2ogz6XPYdRmKZjry628AqiqK4r4oK0SyTxcpGRd+
+ShFHMqZyPmFMgAz8YuJsZYtFqi9zf93FhAmFlYKjZQ266Wv6pLiGSrStJOrmzOE8
+KA4vmgKyitaWm/DuDPrXje4Eo3jka2BQQm99VLz9ZYwJ0UxCt2NV5llK8btM9sdc
+RqmPyZg/PXaPDb+0Eh1b2yr+Ypj5nZG+sbEXdye9zXHRfUFHRqtxvtxoHzqI4LQ1
+Hx0wxESa3S7bqoCbEkcreFXh64l0Uro9DTE9E7GVyvgct9axWid+Q1zeBsBMYI1g
+n/yyrvp1
+=bsZQ
 -----END PGP SIGNATURE-----
