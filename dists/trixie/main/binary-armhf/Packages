@@ -29,18 +29,18 @@ MD5sum: 56d15f48de3516b4d903f2f38d487061
 Description: EVARC access control - Beam Global
 
 Package: evarc-reboot
-Version: 1.0.4
+Version: 1.0.5
 Maintainer: Beam Global <james.petitt@beamforall.com>
 Depends: 
 Architecture: armhf
 Homepage: https://github.com/jpetittbeam/EVARC_build
 Priority: standard
 Section: application
-Filename: pool/main/e/evarc-reboot/evarc-reboot_1.0.4_armhf.deb
-Size: 1034
-SHA256: d2c3eea2aaf2c8bbaa55653736136a9f6592ca3094d557ef5f26b272190885c0
-SHA1: 3d3e43739f807a2f2d37973cf0fc9d3077739723
-MD5sum: 8fd2a43b1904968e21230785efe0acab
+Filename: pool/main/e/evarc-reboot/evarc-reboot_1.0.5_armhf.deb
+Size: 916
+SHA256: 4385b47f722447e249c895ccd911e5c6e7c401399e7f5eef1b882b697915304f
+SHA1: 69b8bea07610ebeca95c46e115ac59d388207b5c
+MD5sum: 522b6b43cdfb3dfa23b71ba09ea59a6f
 Description: EVARC periodic reboot - Beam Global
 
 Package: evarc-webserver
