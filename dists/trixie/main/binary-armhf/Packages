@@ -37,10 +37,10 @@ Homepage: https://github.com/jpetittbeam/EVARC_build
 Priority: standard
 Section: application
 Filename: pool/main/e/evarc-reboot/evarc-reboot_1.0.7_armhf.deb
-Size: 1112
-SHA256: 840f805ad1e4af9474c18877533d94f8e1d1a76560fcd3e832de7b09b82b4094
-SHA1: 63952133cb57d1536be518c09faac4917cac6f9f
-MD5sum: 0e00bcd7b3a98a9decda71cad4cda065
+Size: 1108
+SHA256: db63b81657a0c65e5d34306e5b8ba0d456d89c1a8c08ac6c2442a9fba4b5f376
+SHA1: 2ef7efb8ac6308325674b5d74b3d94957c036ffc
+MD5sum: 2fe52a31a83d1a84cbf20c9256747ebd
 Description: EVARC periodic reboot - Beam Global
 
 Package: evarc-webserver
