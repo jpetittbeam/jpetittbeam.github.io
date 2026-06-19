@@ -1,16 +1,16 @@
 Package: evarc
-Version: 1.2.50
+Version: 1.2.51
 Maintainer: Beam Global <james.petitt@beamforall.com>
 Depends: screen,python3,python3-pip,telnet
 Architecture: armhf
 Homepage: https://github.com/jpetittbeam/EVARC
 Priority: standard
 Section: application
-Filename: pool/main/e/evarc/evarc_1.2.50_armhf.deb
-Size: 64938
-SHA256: 5fcbe0a1adc0a4ad5f51407d158b8553d83f31d60253bfca85d0ce4d5a2f3070
-SHA1: 4da97390d0196b91d78a6d25fc53b51528c3f7a2
-MD5sum: f076c93c2b922c0562e8fc6b3248924b
+Filename: pool/main/e/evarc/evarc_1.2.51_armhf.deb
+Size: 65036
+SHA256: 8d4ed2c801e2905d402ae647a29d2dafdd62ea51a2559e0a3478cfea9bad2cb1
+SHA1: b5cce53f6bd96f165be8b2e833b6d879ec14e6ae
+MD5sum: 2bc99ebfa314628ba83a847d53658147
 Description: EVARC product software - Beam Global
 
 Package: evarc-keys
