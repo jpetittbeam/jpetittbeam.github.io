@@ -7,10 +7,10 @@ Homepage: https://github.com/jpetittbeam/EVARC
 Priority: standard
 Section: application
 Filename: pool/main/e/evarc/evarc_1.2.51_armhf.deb
-Size: 65036
-SHA256: 8d4ed2c801e2905d402ae647a29d2dafdd62ea51a2559e0a3478cfea9bad2cb1
-SHA1: b5cce53f6bd96f165be8b2e833b6d879ec14e6ae
-MD5sum: 2bc99ebfa314628ba83a847d53658147
+Size: 65078
+SHA256: d32fc4fd052ff4cf8c3ff231d4b8878afd20be7cb7909909b03be87f48e473d5
+SHA1: 6c01937c6e16f0c87cf95245a81dcce120d1bf25
+MD5sum: cd6316d2979a1fc61fbae7389243eb17
 Description: EVARC product software - Beam Global
 
 Package: evarc-keys
