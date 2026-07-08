@@ -22,10 +22,10 @@ Homepage: https://github.com/jpetittbeam/EVARC
 Priority: standard
 Section: application
 Filename: pool/main/e/evarc-keys/evarc-keys_0.1.15_armhf.deb
-Size: 9726
-SHA256: bdf14138730092ff86696489f40f10437b55418d05cc778b253ccd3f37233c8f
-SHA1: dc66f798c225dc9211febcbeacb9e8ed868ac4b6
-MD5sum: 6f39ffd8d5bb7184e729b457fee550a2
+Size: 10130
+SHA256: 08250d08603ffc9af10faa8c0dd9f068399a39f799bc227776fe6fb971b4719c
+SHA1: 0d41ae5c90fda3fb2db92d05fb7fae185ad5e066
+MD5sum: eaa56f55f03ae5e4b1fe1a66067f60b9
 Description: EVARC access control - Beam Global
 
 Package: evarc-reboot
