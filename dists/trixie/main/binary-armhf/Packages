@@ -14,18 +14,18 @@ MD5sum: 30fef05e5e7c3646cac45f4c8ba877ec
 Description: EVARC product software - Beam Global
 
 Package: evarc-keys
-Version: 0.1.16
+Version: 0.1.17
 Maintainer: Beam Global <james.petitt@beamforall.com>
 Depends: ssh
 Architecture: armhf
 Homepage: https://github.com/jpetittbeam/EVARC
 Priority: standard
 Section: application
-Filename: pool/main/e/evarc-keys/evarc-keys_0.1.16_armhf.deb
-Size: 10126
-SHA256: c157eb220992da6eb9d08e4a1b19d47c00497f1c0fecb64c6eaa00ea8d581f01
-SHA1: 79ae2d4852662e1632080805bee3f7612e56143e
-MD5sum: 84246a04bd41a6d075064d46a85e9bf8
+Filename: pool/main/e/evarc-keys/evarc-keys_0.1.17_armhf.deb
+Size: 10128
+SHA256: e0fd5e1569c989ef33bb0eef05937022b1a965266d026e21b4ab2760d301fcaa
+SHA1: b359bbd11b88c704077ca9495ca71983c3ab9026
+MD5sum: a634a6a645a2c5a3353d8ad89bda3a03
 Description: EVARC access control - Beam Global
 
 Package: evarc-reboot
