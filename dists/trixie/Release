@@ -2,25 +2,25 @@ Origin: EVARC
 Label: EVARC
 Suite: stable
 Codename: trixie
-Date: Fri, 06 Nov 2026 19:43:42 UTC
+Date: Fri, 13 Nov 2026 18:14:03 UTC
 Architectures: armhf
 Components: main
 Description: Beam Global - EVARC
 MD5Sum:
- 38bf92237eac837fa78916796c252d15 2041 main/binary-armhf/Packages
- 4de3b2b0ca0c4a65b4dac9fd118efca3 807 main/binary-armhf/Packages.gz
+ 5b6e68f3b7f61e5c261f10f5f4d334d0 2041 main/binary-armhf/Packages
+ b5b5e780e774538f2bb73b6b5a9e22b0 810 main/binary-armhf/Packages.gz
  6fdbeec9e34dd98425e2f1d8e277e9d9 112 main/binary-armhf/Release
  d37c85f02e2586e0ea629c0a8d9d2248 5514 main/Contents-armhf
  148d2e17090c6c14a655c9b4f52c15b3 804 main/Contents-armhf.gz
 SHA1:
- 51f08d0b92140b5693d22b698a7fb37a6be63bf3 2041 main/binary-armhf/Packages
- 0a23bb84bf5a15f23fde77dcbb592f1ae5d6f997 807 main/binary-armhf/Packages.gz
+ 430fd987c84d3bae279eecfd3399634213b9bb42 2041 main/binary-armhf/Packages
+ c8745417a8b5d7d679bf9164f2f26272d8cfbde5 810 main/binary-armhf/Packages.gz
  7737edd6554e1ae6ed0756408372133b24188c1a 112 main/binary-armhf/Release
  3a63e69f0366cd9dff05ca6f051ed6d005ad76bb 5514 main/Contents-armhf
  b9d2f082ec4daa73d6173c3760717474e0719982 804 main/Contents-armhf.gz
 SHA256:
- b3e6ae620348858d29c584966f3e283a4f32ae129075221283cc3445b453ceee 2041 main/binary-armhf/Packages
- a3c1ec35161978d05002c6d0eaf2cd5384f25980ec5d5ec8aa550ac926004575 807 main/binary-armhf/Packages.gz
+ 59cd499c1311b27742099cea381c82e7bde6289640fda0adc527c1b9acb78bc1 2041 main/binary-armhf/Packages
+ c74f37f1f43d688cd93b2854dc8aa1ff2c4917ae780451320fa5ccbfe7a7e46f 810 main/binary-armhf/Packages.gz
  25bfabf1982e97c38fd1e349e4c624d9953807adaebb34d95bb3bf181d24c821 112 main/binary-armhf/Release
  c082048d081d45601739103b22f3c39df4cad2aaaee01433754c94b2f2dd1c9e 5514 main/Contents-armhf
  d851fb24e7f3ec71675aca9f350c4ef34e53546ab096a8e11322711627ca4ff0 804 main/Contents-armhf.gz
